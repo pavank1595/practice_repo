@@ -7,8 +7,6 @@ services:
     networks:
       - frontend
 
-
-
 networks:
   frontend:
     name: my_frontend_network
