@@ -1,6 +1,6 @@
 services:
   web:
-    image: prkapp.azurecr.io/sampleapp:v1.0
+    image: prkappreg.azurecr.io/sampleapp:v1.0
     container_name: dummy_container
     ports:
       - 8080:80
